@@ -61,7 +61,11 @@ justify-content:space-around;
     font-weight: 600;
 }
 .time{
-    font-size: 12px;
+    font-size: 16px;
+    color: gray;
+}
+.time1{
+    font-size: 28px;
     color: gray;
 }
 .message{
@@ -286,6 +290,7 @@ align-items: center;
 }
 .c-flex p{
     font-size: 20px;
+    color: rgb(0, 183, 255);
 }
 .c-flex-parent{
     display: flex;
@@ -305,7 +310,7 @@ align-items: center;
     border: 2px solid white;
 }
 section .p-1{
-    color: rgb(118, 216, 255);
+    color: rgb(11, 170, 233);
     margin-left: 23px;
     font-size: 20px;
 }
